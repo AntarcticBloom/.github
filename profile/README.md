@@ -1,4 +1,4 @@
-<img src="https://github.com/ProletarianSystems/.github/blob/main/assets/logo.png?raw=true" alt="Logo for Proletarian Systems: an image of a field of roses inset with a computer processing unit" width="300"/>
+<img src="https://github.com/ProletarianSystems/.github/blob/main/assets/logo.png?raw=true" alt="Logo for Proletarian Systems: an image of a field of roses inset with a computer processing unit" width="300" style="margin-left: -24px"/>
 
 # Proletarian Systems
 A tech cooperative detangling capitalist institutions with software for people, not profit.
