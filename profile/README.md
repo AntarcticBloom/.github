@@ -17,7 +17,7 @@ Whatever your industry, your expertise *is* valuable.
 
 ---
 
-<img src="https://github.com/ProletarianSystems/.github/blob/main/assets/logo-small.jpg?raw=true" alt="Logo for Proletarian Systems: an image of a field of roses inset with a computer processing unit" width="30%" style="float: left;"/>
+<img src="https://github.com/ProletarianSystems/.github/blob/main/assets/logo-sickle.jpg?raw=true" alt="Logo for Proletarian Systems: an image of a field of roses inset with a computer processing unit" width="30%" style="float: left;"/>
 
 <div style="float: right; width: 68%">
 <h3>About the logo</h3>
