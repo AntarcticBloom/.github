@@ -1,2 +1,2 @@
-# .github
-.github repository for organization README
+# Proletarian Systems
+Detangling capitalist institutions with software for people and not for profit
